@@ -1,5 +1,5 @@
 
- public class max{
+ public class muit{
 	public static void main(String[] args){
 	int i,j;
         for(i=1;i<=9;i++){
